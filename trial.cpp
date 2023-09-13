@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"create branch"<<endl;;
+    cout<<"create branch"<<endl;
+    cout<<"new commit"<<endl;
 }
